@@ -3,173 +3,123 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
+#ਪਹਿਲਾਂ ਯੋਗਦਾਨ
+ਇਹ ਸਖ਼ਤ ਹੈ. ਪਹਿਲੀ ਵਾਰ ਜਦੋਂ ਤੁਸੀਂ ਕੁਝ ਕਰਦੇ ਹੋ ਤਾਂ ਹਮੇਸ਼ਾਂ ਮੁਸ਼ਕਲ ਹੁੰਦਾ ਹੈ. ਖ਼ਾਸਕਰ ਜਦੋਂ ਤੁਸੀਂ ਸਹਿਯੋਗ ਕਰ ਰਹੇ ਹੋ, ਗ਼ਲਤੀਆਂ ਕਰਨਾ ਕੋਈ ਆਰਾਮਦਾਇਕ ਚੀਜ਼ ਨਹੀਂ ਹੈ. ਅਸੀਂ ਨਵੇਂ ਓਪਨ-ਸੋਰਸ ਯੋਗਦਾਨ ਪਾਉਣ ਵਾਲੇ ਨੂੰ ਸਿੱਖਣ ਅਤੇ ਪਹਿਲੀ ਵਾਰ ਯੋਗਦਾਨ ਪਾਉਣ ਦੇ ਸਰਲ ਕਰੋ ਨੂੰ ਸਰਲ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਸੀ.
 
-# First Contributions
+ਲੇਖਾਂ ਨੂੰ ਪੜ੍ਹਨਾ ਅਤੇ  ਸਿੱਖਿਆਟੋਰਿਯਲ ਦੇਖਣਾ ਸਹਾਇਤਾ ਕਰ ਸਕਦਾ ਹੈ, ਪਰ ਅਸਲ ਵਿੱਚ ਅਭਿਆਸ ਦੇ ਵਾਤਾਵਰਣ ਵਿੱਚ ਚੀਜ਼ਾਂ ਨੂੰ ਕਰਨ ਨਾਲੋਂ ਇਸ ਤੋਂ ਵਧੀਆ ਹੋਰ ਕੀ ਹੈ? ਇਸ ਪ੍ਰੋਜੈਕਟ ਦਾ ਉਦੇਸ਼ ਮਾਰਗ ਦਰਸ਼ਨ ਪ੍ਰਦਾਨ ਕਰਨਾ ਅਤੇ ਸ਼ੁਰੂਆਤੀ ਲੋਕਾਂ ਦਾ ਆਪਣਾ ਪਹਿਲਾ ਯੋਗਦਾਨ ਪਾਉਣ ਦੇ lੰਗ ਨੂੰ ਸਰਲ ਕਰਨਾ ਹੈ. ਜੇ ਤੁਸੀਂ ਆਪਣਾ ਪਹਿਲਾ ਯੋਗਦਾਨ ਪਾਉਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋ, ਤਾਂ ਹੇਠਾਂ ਦਿੱਤੇ ਕਦਮਾਂ ਦੀ ਪਾਲਣਾ ਕਰੋ.
+#### *ਜੇ ਤੁਸੀਂ ਕਮਾਂਡ ਲਾਈਨ ਦੇ ਨਾਲ ਆਰਾਮਦੇਹ ਨਹੀਂ ਹੋ, [ਜੀਯੂਆਈ ਟੂਲਸ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋਏ ਇੱਥੇ ਸਿੱਖਿਆ ਟੋਰਿਯਲ ਹਨ.] (# ਸਿੱਖਿਆ ਟੋਰਿਅਲ-ਵਰਤਦੇ ਹੋਏ-ਦੂਜੇ-ਸਾਧਨ)*
+<img align="ਸਹੀ" width="" src="ਜਾਇਦਾਦ / ਫੋਰਕ.png" alt="ਇਸ ਰਿਪੋਜ਼ਟਰੀ ਨੂੰ ਕਾਂਟਾ ਕਰੋ" />
+ਜੇ ਤੁਹਾਡੀ ਮਸ਼ੀਨ ਤੇ ਗਿੱਟ ਨਹੀਂ ਹੈ, [ਇਸ ਨੂੰ ਸਥਾਪਿਤ ਕਰੋ] (https://help.github.com/articles/set-up-git/).
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+## ਇਸ ਰਿਪੋਜ਼ਟਰੀ ਨੂੰ ਫੋਰਕ ਕਰੋ
+ਇਸ ਪੰਨੇ ਦੇ ਸਿਖਰ 'ਤੇ ਫੋਰਕ ਬਟਨ' ਤੇ ਕਲਿੱਕ ਕਰਕੇ ਇਸ ਰਿਪੋਜ਼ਟਰੀ ਨੂੰ ਫੋਰਕ ਕਰੋ.
+ਇਹ ਤੁਹਾਡੇ ਖਾਤੇ ਵਿੱਚ ਇਸ ਰਿਪੋਜ਼ਟਰੀ ਦੀ ਇੱਕ ਕਾਪੀ ਬਣਾਏਗਾ.
 
-Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+## ਰਿਪੋਜ਼ਟਰੀ ਨੂੰ ਕਲੋਨ ਕਰੋ
+<img align = "ਸੱਜਾ"  width = "300" src = "ਜਾਇਦਾਦ / ਕਲੋਨ. png" alt = "ਇਸ ਰਿਪੋਜ਼ਟਰੀ ਦਾ ਕਲੋਨ ਕਰੋ" />
 
-#### *If you're not comfortable with command line, [here are tutorials using GUI tools.]( #tutorials-using-other-tools )*
+ਹੁਣ ਆਪਣੀ ਮਸ਼ੀਨ ਤੇ ਫੋਰਕਡ ਰਿਪੋਜ਼ਟਰੀ ਦਾ ਕਲੋਨ ਕਰੋ. ਆਪਣੇ ਗੀਟਹਬ ਖਾਤੇ ਤੇ ਜਾਉ, ਫੋਰਕਡ ਰਿਪੋਜ਼ਟਰੀ ਖੋਲ੍ਹੋ, ਕਲੋਨ ਬਟਨ ਤੇ ਕਲਿਕ ਕਰੋ ਅਤੇ ਫਿਰ * ਕਾਪੀ ਟੂ ਕਲਿੱਪਬੋਰਡ * ਆਈਕਾਨ ਤੇ ਕਲਿਕ ਕਰੋ.
 
-#### *Read this in [other languages](translations/Translations.md).*
-
-[🇮🇳](translations/Translations.md)
-[🇲🇲](translations/README.mm_unicode.md)
-[🇮🇩](translations/README.id.md)
-[🇫🇷](translations/README.fr.md)
-[🇪🇸](translations/README.es.md)
-[<img src="assets/catalan1.png" width="22">](translations/README.ca.md)
-[🇳🇱](translations/README.nl.md)
-[🇱🇹](translations/README.lt.md)
-[🇷🇺](translations/README.ru.md)
-[🇧🇬](translations/README.bg.md)
-[:slovakia:](translations/README.slk.md)
-[🇯🇵](translations/README.ja.md)
-[🇻🇳](translations/README.vn.md)
-[🇵🇱](translations/README.pl.md)
-[🇮🇷](translations/README.fa.md)
-[🇮🇷](translations/README.fa.en.md)
-[🇰🇷 🇰🇵](translations/README.ko.md)
-[🇩🇪](translations/README.de.md)
-[🇩🇰](translations/README.da.md)
-[🇨🇳](translations/README.chs.md)
-[🇹🇼](translations/README.cht.md)
-[🇬🇷](translations/README.gr.md)
-[🇪🇬](translations/README.eg.md)
-[🇸🇦](translations/README.ar.md)
-[🇺🇦](translations/README.ua.md)
-[🇧🇷](translations/README.pt_br.md)
-[🇵🇹](translations/README.pt-pt.md)
-[🇮🇹](translations/README.it.md)
-[🇹🇭](translations/README.th.md)
-[🏴](translations/README.gl.md)
-[🇳🇵](translations/README.np.md)
-[🇵🇰](translations/README.ur.md)
-[:bangladesh:](translations/README.bn.md)
-[🇲🇩 🇷🇴](translations/README.ro.md)
-[🇹🇷](translations/README.tr.md)
-[🇸🇪](translations/README.se.md)
-[🇲🇾](translations/README.my.md)
-[:slovenia:](translations/README.sl.md)
-[🇮🇱](translations/README.hb.md)
-[🇨🇿](translations/README.cs.md)
-[<img src="assets/pirate.png" width="22">](translations/README.en-pirate.md)
-[🇲🇽](translations/README.mx.md)
-[🇵🇭](translations/README.tl.md)
-[🇿🇦](translations/README.zul.md)
-[🇿🇦](translations/README.afk.md)
-[🇰🇪](translations/README.kws.md)
-[🇳🇬](translations/README.igb.md)
-[🇱🇻](translations/README.lv.md)
-
-
-
-<img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
-
-If you don't have git on your machine, [install it]( https://help.github.com/articles/set-up-git/).
-
-## Fork this repository
-
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
-
-## Clone the repository
-
-<img align="right" width="300" src="assets/clone.png" alt="clone this repository" />
-
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.
-
-Open a terminal and run the following git command:
-
+ਇੱਕ ਟਰਮੀਨਲ ਖੋਲ੍ਹੋ ਅਤੇ ਹੇਠਲੀ git ਕਮਾਂਡ ਚਲਾਓ:
+`` `
+git ਕਲੋਨ "url ਤੁਹਾਨੂੰ ਹੁਣੇ ਹੀ ਨਕਲ ਕੀਤਾ"
+`` `
+ਜਿੱਥੇ “url ਤੁਹਾਨੂੰ ਹੁਣੇ ਹੀ ਨਕਲ ਕੀਤਾ” (ਹਵਾਲਾ ਨਿਸ਼ਾਨਾਂ ਤੋਂ ਬਿਨਾਂ) ਇਸ ਰਿਪੋਜ਼ਟਰੀ ਦਾ url ਹੈ (ਇਸ ਪ੍ਰੋਜੈਕਟ ਦਾ ਤੁਹਾਡਾ ਕਾਂਟਾ) Url ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਪਿਛਲੇ ਕਦਮ ਵੇਖੋ.
 ```
-git clone "url you just copied"
-```
-where "url you just copied" (without the quote marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+<img align = "ਸੱਜਾ" width = "300" src = "ਸੰਪੱਤੀ / ਕਾੱਪੀ-ਟੂ-ਕਲਿੱਪਬੋਰਡ.ਪੰਗ" Alt = "ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ URL ਕਾਪੀ ਕਰੋ" />
 
-<img align="right" width="300" src="assets/copy-to-clipboard.png" alt="copy URL to clipboard" />
+ਉਦਾਹਰਣ ਲਈ:
+`` `
+git ਕਲੋਨ https://github.com/ਇਹ ਹੈ-ਤੁਸੀਂ/first-contributes.git
+`` `
+ਜਿੱਥੇ `ਇਹ ਹੈ-ਤੁਸੀਂ- ਤੁਹਾਡਾ GitHub ਉਪਯੋਗਕਰਤਾ ਨਾਮ ਹੈ. ਇੱਥੇ ਤੁਸੀਂ ਆਪਣੇ ਕੰਪਿਉਟਰ ਤੇ ਗੀਟਹਬ ਉੱਤੇ ਪਹਿਲੇ-ਯੋਗਦਾਨ ਰਿਪੋਜ਼ਟਰੀ ਦੇ ਭਾਗਾਂ ਦੀ ਨਕਲ ਕਰ ਰਹੇ ਹੋ.
+## ਇੱਕ ਸ਼ਾਖਾ ਬਣਾਓ
 
-For example:
-```
-git clone https://github.com/this-is-you/first-contributions.git
-```
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+ਆਪਣੇ ਕੰਪਿਉਟਰ ਉੱਤੇ ਰਿਪੋਜ਼ਟਰੀ ਡਾਇਰੈਕਟਰੀ ਵਿੱਚ ਬਦਲੋ (ਜੇ ਤੁਸੀਂ ਪਹਿਲਾਂ ਤੋਂ ਨਹੀਂ ਹੋ):
 
-## Create a branch
+`` `
+ਸੀ ਡੀ ਪਹਿਲੇ-ਯੋਗਦਾਨ
+`` `
+ਹੁਣ `git ਚੈੱਕਆਉਟ` ਕਮਾਂਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਬ੍ਰਾਂਚ ਬਣਾਓ:
+`` `
+git ਚੈਕਆਉਟ -b <ਸ਼ਾਮਲ-ਤੁਹਾਡਾ-ਨਵਾਂ- ਸ਼ਾਖਾ-ਨਾਮ>
+`` `
 
-Change to the repository directory on your computer (if you are not already there):
+ਉਦਾਹਰਣ ਲਈ:
+`` `
+git ਚੈਕਆਉਟ -b ਐਡ-ਐਲਨਜ਼ੋ-ਚਰਚ
+`` `
+(ਬ੍ਰਾਂਚ ਦੇ ਨਾਮ ਨੂੰ ਇਸ ਵਿਚ * * * ਜੋੜਨ ਦੀ ਜ਼ਰੂਰਤ ਨਹੀਂ ਹੈ, ਪਰ ਇਹ ਸ਼ਾਮਲ ਕਰਨਾ ਇਕ ਵਾਜਬ ਚੀਜ਼ ਹੈ ਕਿਉਂਕਿ ਇਸ ਸ਼ਾਖਾ ਦਾ ਉਦੇਸ਼ ਤੁਹਾਡੇ ਨਾਮ ਨੂੰ ਇਕ ਸੂਚੀ ਵਿਚ ਸ਼ਾਮਲ ਕਰਨਾ ਹੈ.)
 
-```
-cd first-contributions
-```
-Now create a branch using the `git checkout` command:
-```
-git checkout -b <add-your-new-branch-name>
-```
+## ਜਰੂਰੀ ਬਦਲਾਅ ਕਰੋ ਅਤੇ ਉਹ ਬਦਲਾਅ ਕਰੋ
 
-For example:
-```
-git checkout -b add-alonzo-church
-```
-(The name of the branch does not need to have the word *add* in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+ਹੁਣ ਟੈਕਸਟ ਐਡੀਟਰ ਵਿਚ `ਕੰਟਰੀਬਿorsਟਰਜ਼.ਐਮਡੀ` ਫਾਈਲ ਖੋਲ੍ਹੋ, ਇਸ ਵਿਚ ਆਪਣਾ ਨਾਮ ਸ਼ਾਮਲ ਕਰੋ. ਇਸ ਨੂੰ ਫਾਈਲ ਦੇ ਸ਼ੁਰੂ ਜਾਂ ਅੰਤ 'ਤੇ ਨਾ ਸ਼ਾਮਲ ਕਰੋ. ਇਸ ਨੂੰ ਕਿਤੇ ਵੀ ਵਿਚਕਾਰ ਰੱਖੋ. ਹੁਣ, ਫਾਈਲ ਸੇਵ ਕਰੋ.
 
-## Make necessary changes and commit those changes
-
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
-
-<img align="right" width="450" src="assets/git-status.png" alt="git status" />
+<img align = "ਸੱਜਾ" width = "450" src = "ਸੰਪਤੀ / git-status.png" Alt = "git ਸਥਿਤੀ" />
 
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+ਜੇ ਤੁਸੀਂ ਪ੍ਰੋਜੈਕਟ ਡਾਇਰੈਕਟਰੀ ਤੇ ਜਾਂਦੇ ਹੋ ਅਤੇ `git ਸਥਿਤੀ` ਕਮਾਂਡ ਚਲਾਉਂਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਦੇਖੋਗੇ ਕਿ ਬਦਲਾਅ ਹਨ.
 
 
-Add those changes to the branch you just created using the `git add` command:
+ਬ੍ਰਾਂਚ ਵਿੱਚ ਉਹ ਬਦਲਾਵ ਸ਼ਾਮਲ ਕਰੋ ਜੋ ਤੁਸੀਂ ਹੁਣੇ ਬਣਾਇਆ ਹੈ git add` ਕਮਾਂਡ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਬਣਾਈ ਹੈ:
 
-```
-git add Contributors.md
-```
+`` `
+git ਸ਼ਾਮਲ ਕਰਨ ਵਾਲੇ ਯੋਗਦਾਨ ਪਾਉਣ ਵਾਲੇ.ਮ.ਡੀ.
+`` `
 
-Now commit those changes using the `git commit` command:
-```
-git commit -m "Add <your-name> to Contributors list"
-```
-replacing `<your-name>` with your name.
+ਹੁਣ ਉਹ ਤਬਦੀਲੀਆਂ `git ਕਮਿ`` ਕਮਾਂਡ ਦੀ ਵਰਤੋਂ ਨਾਲ ਕਰੋ:
+`` `
+git comm -m "ਸਹਿਯੋਗੀ ਸੂਚੀ ਵਿੱਚ <ਤੁਹਾਡੇ ਆਪਣੇ ਨਾਮ ਨੂੰ ਸ਼ਾਮਲ ਕਰੋ"
+`` `
+ਤੁਹਾਡੇ ਨਾਮ ਨਾਲ `<ਤੁਹਾਡੇ ਆਪਣੇ ਨਾਮ> ਤਬਦੀਲ ਕਰ ਰਿਹਾ ਹੈ
 
-## Push changes to GitHub
+## GitHub ਵਿੱਚ ਬਦਲੋ ਧੱਕੋ
 
-Push your changes using the command `git push`:
-```
-git push origin <add-your-branch-name>
-```
-replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+ਕਮਾਂਡ `git push` ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਆਪਣੀਆਂ ਤਬਦੀਲੀਆਂ ਧੱਕੋ:
+`` `
+git ਧੱਕਾ ਮੂਲ <ਸ਼ਾਮਲ-ਤੁਹਾਡਾ-ਨਵਾਂ- ਸ਼ਾਖਾ-ਨਾਮ>
+`` `
+ਉਸ ਬ੍ਰਾਂਚ ਦੇ ਨਾਮ ਨਾਲ ਤੁਸੀਂ <ਸ਼ਾਮਲ-ਤੁਹਾਡਾ-ਨਵਾਂ- ਸ਼ਾਖਾ-ਨਾਮ> la ਨੂੰ ਬਦਲਣਾ ਜੋ ਤੁਸੀਂ ਪਹਿਲਾਂ ਬਣਾਈ ਸੀ.
 
-## Submit your changes for review
+## ਆਪਣੀਆਂ ਤਬਦੀਲੀਆਂ ਨੂੰ ਸਮੀਖਿਆ ਲਈ ਦਰਜ ਕਰੋ
 
-If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
+ਜੇ ਤੁਸੀਂ ਗਿੱਟਹੱਬ 'ਤੇ ਆਪਣੀ ਰਿਪੋਜ਼ਟਰੀ' ਤੇ ਜਾਂਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ `ਤੁਲਨਾ ਕਰੋ ਅਤੇ ਖਿੱਚੋ ਬੇਨਤੀ` ਬਟਨ ਨੂੰ ਵੇਖੋਗੇ. ਉਸ ਬਟਨ 'ਤੇ ਕਲਿੱਕ ਕਰੋ.
 
-<img style="float: right;" src="assets/compare-and-pull.png" alt="create a pull request" />
+<img ਸ਼ੈਲੀ = "ਫਲੋਟ: ਸਹੀ;" src = "ਜਾਇਦਾਦ / ਤੁਲਨਾ-ਅਤੇ- pull.png" Alt = "ਇੱਕ ਖਿੱਚ ਦੀ ਬੇਨਤੀ ਬਣਾਓ" />
 
-Now submit the pull request.
+ਹੁਣ ਪੁਲੀ ਬੇਨਤੀ ਨੂੰ ਜਮ੍ਹਾ ਕਰੋ.
 
-<img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
+<img ਸ਼ੈਲੀ = "ਫਲੋਟ: ਸਹੀ;" src = "ਜਾਇਦਾਦ / ਜਮ੍ਹਾ-ਪੁੱਲ-ਬੇਨਤੀ. png" Alt = "ਪੇਸ਼ਕਸ਼ ਖਿੱਚ ਦੀ ਬੇਨਤੀ" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+ਜਲਦੀ ਹੀ ਮੈਂ ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਤਬਦੀਲੀਆਂ ਨੂੰ ਇਸ ਪ੍ਰੋਜੈਕਟ ਦੀ ਮਾਸਟਰ ਬ੍ਰਾਂਚ ਵਿੱਚ ਮਿਲਾ ਦੇਵਾਂਗਾ. ਤਬਦੀਲੀਆਂ ਨੂੰ ਮਿਲਾਉਣ ਤੋਂ ਬਾਅਦ ਤੁਹਾਨੂੰ ਇੱਕ ਸੂਚਨਾ ਈਮੇਲ ਮਿਲੇਗੀ.
 
-## Where to go from here?
+## ਆਪਣੀਆਂ ਤਬਦੀਲੀਆਂ ਨੂੰ ਸਮੀਖਿਆ ਲਈ ਦਰਜ ਕਰੋ
 
-Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
+ਜੇ ਤੁਸੀਂ ਗਿੱਟਹੱਬ 'ਤੇ ਆਪਣੀ ਰਿਪੋਜ਼ਟਰੀ' ਤੇ ਜਾਂਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ `ਤੁਲਨਾ ਕਰੋ ਅਤੇ ਖਿੱਚੋ ਬੇਨਤੀ` ਬਟਨ ਨੂੰ ਵੇਖੋਗੇ. ਉਸ ਬਟਨ 'ਤੇ ਕਲਿੱਕ ਕਰੋ.
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
+<img ਸ਼ੈਲੀ = "ਫਲੋਟ: ਸਹੀ;" src = "ਜਾਇਦਾਦ / ਤੁਲਨਾ-ਅਤੇ- ਖਿੱਚੋ.png" Alt = "ਇੱਕ ਖਿੱਚ ਦੀ ਬੇਨਤੀ ਬਣਾਓ" />
 
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM).
+ਹੁਣ ਪੁਲੀ ਬੇਨਤੀ ਨੂੰ ਜਮ੍ਹਾ ਕਰੋ.
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+<img ਸ਼ੈਲੀ = "ਫਲੋਟ: ਸਹੀ;" src = "ਜਾਇਦਾਦ / ਜਮ੍ਹਾ-ਪੁੱਲ-ਬੇਨਤੀ. png" Alt = "ਪੇਸ਼ਕਸ਼ ਖਿੱਚ ਦੀ ਬੇਨਤੀ" />
 
-### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
+ਜਲਦੀ ਹੀ ਮੈਂ ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਤਬਦੀਲੀਆਂ ਨੂੰ ਇਸ ਪ੍ਰੋਜੈਕਟ ਦੀ ਮਾਸਟਰ ਬ੍ਰਾਂਚ ਵਿੱਚ ਮਿਲਾ ਦੇਵਾਂਗਾ. ਤਬਦੀਲੀਆਂ ਨੂੰ ਮਿਲਾਉਣ ਤੋਂ ਬਾਅਦ ਤੁਹਾਨੂੰ ਇੱਕ ਸੂਚਨਾ ਈਮੇਲ ਮਿਲੇਗੀ.
+
+## ਇਥੋਂ ਕਿੱਥੇ ਜਾਣਾ ਹੈ?
+
+ਵਧਾਈਆਂ! ਤੁਸੀਂ ਹੁਣੇ ਹੀ ਸਟੈਂਡਰਡ _ਫੋਰਕ -> ਕਲੋਨ -> ਐਡਿਟ -> PR_ ਵਰਕਫਲੋ ਪੂਰਾ ਕੀਤਾ ਹੈ ਜਿਸਦਾ ਤੁਸੀਂ ਯੋਗਦਾਨ ਪਾਉਣ ਵਾਲੇ ਦੇ ਤੌਰ ਤੇ ਅਕਸਰ ਸਾਹਮਣਾ ਕਰੋਗੇ!
+
+ਆਪਣੇ ਯੋਗਦਾਨ ਦਾ ਜਸ਼ਨ ਮਨਾਓ ਅਤੇ [ਵੈਬ ਐਪ] (https://firstcontributes.github.io/#social-share) ਤੇ ਜਾ ਕੇ ਆਪਣੇ ਦੋਸਤਾਂ ਅਤੇ ਪੈਰੋਕਾਰਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰੋ.
+
+ਤੁਹਾਨੂੰ ਸਾਡੀ ਸਲੈਕ ਟੀਮ ਵਿਚ ਸ਼ਾਮਲ ਹੋ ਸਕਦਾ ਹੈ ਜੇ ਤੁਹਾਨੂੰ ਕਿਸੇ ਮਦਦ ਦੀ ਜ਼ਰੂਰਤ ਹੈ ਜਾਂ ਕੋਈ ਪ੍ਰਸ਼ਨ ਹੈ. [ਸਲੈੱਕ ਟੀਮ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਵੋ]
+
+ਆਓ ਹੁਣ ਤੁਹਾਨੂੰ ਹੋਰ ਪ੍ਰੋਜੈਕਟਾਂ ਵਿੱਚ ਯੋਗਦਾਨ ਪਾਉਣ ਲਈ ਸ਼ੁਰੂਆਤ ਕਰੀਏ. ਅਸੀਂ ਪ੍ਰੋਜੈਕਟਾਂ ਦੀ ਇੱਕ ਸੂਚੀ ਤਿਆਰ ਕੀਤੀ ਹੈ ਜਿਸ ਨਾਲ ਅਸਾਨ ਮੁੱਦਿਆਂ ਦੀ ਤੁਸੀਂ ਸ਼ੁਰੂਆਤ ਕਰ ਸਕਦੇ ਹੋ. [ਵੈਬ ਐਪ ਵਿਚਲੇ ਪ੍ਰਾਜੈਕਟਾਂ ਦੀ ਸੂਚੀ] ਵੇਖੋ (https://firstcontributes.github.io/#project-list).
+
+### [ਅਤਿਰਿਕਤ ਸਮੱਗਰੀ] (ਅਤਿਰਿਕਤ ਪਦਾਰਥ / ਗੀਟ_ਫ੍ਰਲੋ_ਸੈਨਰੀਓ / ਵਾਧੂ- ਮੈਟੀਰੀਅਲ.ਐਮਡੀ)
 
 
-## Tutorials Using Other Tools
+## ਹੋਰ ਸਾਧਨਾਂ ਦੀ ਵਰਤੋਂ ਕਰਦਿਆਂ ਟਿਯੂਟੋਰਿਅਲਸ
 
-|<a href="github-desktop-tutorial.md"><img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="100"></a>|<a href="github-windows-vs2017-tutorial.md"><img alt="Visual Studio 2017" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" width="100"></a>|<a href="gitkraken-tutorial.md"><img alt="GitKraken" src="/assets/gk-icon.png" width="100"></a>|<a href="github-windows-vs-code-tutorial.md"><img alt="VS Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width=100></a>|<a href="sourcetree-macos-tutorial.md"><img alt="Sourcetree App" src="https://wac-cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg" width=100></a>|
-|---|---|---|---|---|
-|[GitHub Desktop](github-desktop-tutorial.md)|[Visual Studio 2017](github-windows-vs2017-tutorial.md)|[GitKraken](gitkraken-tutorial.md)|[Visual Studio Code](github-windows-vs-code-tutorial.md)|[Atlassian Sourcetree](sourcetree-macos-tutorial.md)|
+| <a href="github-desktop-tutorial.md"> <img alt = "GitHub ਡੈਸਕਟਾਪ" src = "https://desktop.github.com/images/desktop-icon.svg" ਚੌੜਾਈ = "100"> </a> | <a href="github-windows-vs2017-tutorial.md"> <img alt = "ਵਿਜ਼ੂਅਲ ਸਟੂਡੀਓ 2017" src = "https://upload.wikimedia.org/wikedia/commons/c/cd /Visual_Studio_2017_Logo.svg "ਚੌੜਾਈ =" 100 "> </a> | <a href="gitkraken-tutorial.md"> <img alt =" GitKraken "src =" / ਜਾਇਦਾਦ / gk-icon.png "ਚੌੜਾਈ =" 100 "> </a> | <a href="github-windows-vs-code-tutorial.md"> <img alt =" VS Code "src =" https://upload.wikimedia.org/wikedia/commons / 2/2d/Visual_Studio_Code_1.18_icon.svg "ਚੌੜਾਈ = 100> </a> | <a href="sourcetree-macos-tutorial.md"> <img alt =" ਸਰੋਤਕਾਰੀ ਐਪ "src =" https: // wac -cdn.atlassian.com/dam/jcr:81b15cde-be2e-4f4a-8af7-9436f4a1b431/Sourcetree-icon-blue.svg "ਚੌੜਾਈ = 100> </a> |
+| --- | --- | --- | --- | --- |. |
+| | -windows-vs-code-tutorial.md) | [ਐਟਲਾਸਿਅਨ Sourcetree] (Sourcetree-macos-tutorial.md) |
